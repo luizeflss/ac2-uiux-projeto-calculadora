@@ -7,12 +7,11 @@
 ## 1. Identificação do Projeto
 
 **Projeto:** Projeto Calculadora  
-**Contexto:** FinançApp  
 **Aluno:** Luiz Eduardo  
-**RA:** XXXXXXX  
-**Curso:** Nome do curso  
-**Disciplina:** Nome da disciplina  
-**Professor:** Nome do professor  
+**RA:** 250695  
+**Curso:** Análise e Desenvolvimento de Sistemas  
+**Disciplina:** UI/UX  
+**Professor:** Daniel Ohata  
 **Semestre:** 2026.2  
 
 ---
