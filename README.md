@@ -130,7 +130,7 @@ Página da classe `Calculadora`:
 
 ## Link do repositório
 
-https://github.com/SEU-USUARIO/projeto_calculadora
+https://github.com/luizeflss/ac2-uiux-projeto-calculadora
 
 ## Autor
 
